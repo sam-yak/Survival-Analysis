@@ -1,4 +1,4 @@
-# Survival-Analysis
+# survival analysis to investigate the duration employees retention
 
 Survival analysis has emerged as a crucial statistical tool for analyzing time-to-event data,
 providing insights into the longevity and retention patterns across various domains, including
